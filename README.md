@@ -1,11 +1,9 @@
 # All-day-CityScapes-segmentation
 All-day Semantic Segmentation &amp; All-day CityScapes dataset
 
-This is the official implementation of our work entitled as ```Interactive Learning of Intrinsic and Extrinsic Properties for All-day Semantic Segmentation```.
+This is the official implementation of our work entitled as ```Interactive Learning of Intrinsic and Extrinsic Properties for All-day Semantic Segmentation```, accepted by ```IEEE Transactions on Image Processing```.
 
 ![avatar](/heatmapAD.png)
-
-This is the official implementation of our work entitled as ```Interactive Learning of Intrinsic and Extrinsic Properties for All-day Semantic Segmentation```, accepted by ```IEEE Transactions on Image Processing```.
 
 # Citation and Reference
 If you find this project useful, please cite:
