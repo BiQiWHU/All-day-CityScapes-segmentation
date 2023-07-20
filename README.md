@@ -7,7 +7,11 @@ This is the official implementation of our work entitled as ```Interactive Learn
 
 # Dataset Download
 
-Please click download by: isis-data.science.uva.nl/cv/1ADcityscape.zip
+Please click <a href="isis-data.science.uva.nl/cv/1ADcityscape.zip"> here</a> to download ```All-day CityScapes ```.
+
+For CopyRight issue, we only provide the rendered samples on both training and validation set of the original ```CityScapes```.
+
+All the sample name and data folder organization from ```All-day CityScapes ``` is the same as the original ```CityScapes```.
 
 # Citation and Reference
 If you find this project useful, please cite:
