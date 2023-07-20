@@ -5,6 +5,10 @@ This is the official implementation of our work entitled as ```Interactive Learn
 
 ![avatar](/heatmapAD.png)
 
+# Dataset Download
+
+Please click download by: isis-data.science.uva.nl/cv/1ADcityscape.zip
+
 # Citation and Reference
 If you find this project useful, please cite:
 ```
@@ -13,5 +17,8 @@ If you find this project useful, please cite:
   journal={IEEE Transactions onImage Processing}, 
   title={Interactive Learning of Intrinsic and Extrinsic Properties for All-day Semantic Segmentation}, 
   year={2023},
+  volume={32},
+  number={},
+  pages={3821-3835},
   doi={10.1109/TIP.2023.3290469}}
 ```
