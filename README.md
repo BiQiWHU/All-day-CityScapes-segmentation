@@ -28,7 +28,11 @@ Follow the original <a href="https://github.com/ydhongHIT/DDRNet">DDRNet-23</a> 
 
 ### Step 2: Train the Model
 
+```python train.py --data_pth D:/alldaycityscapes --nclass 19```
+
 ### Step 3: Evaluation
+
+```python eval.py```
 
 # Citation and Reference
 If you find this project useful, please cite:
