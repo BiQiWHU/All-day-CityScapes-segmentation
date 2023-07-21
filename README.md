@@ -22,7 +22,7 @@ If you find this project useful, please cite:
 ```
 @ARTICLE{Bi2023AD,
   author={Bi, Qi and You, Shaodi and Gevers, Theo},
-  journal={IEEE Transactions onImage Processing}, 
+  journal={IEEE Transactions on Image Processing}, 
   title={Interactive Learning of Intrinsic and Extrinsic Properties for All-day Semantic Segmentation}, 
   year={2023},
   volume={32},
