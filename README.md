@@ -22,9 +22,13 @@ This implementation is highly based on the DDRNet source code. The original impl
 
 Please follow the below steps to run the AO-SegNet (DDRNet-23 based backbone).
 
-## Step 1: Configuration
+### Step 1: Configuration
 
 Follow the original <a href="https://github.com/ydhongHIT/DDRNet">DDRNet-23</a> to prepare all the packages and data folder.
+
+### Step 2: Train the Model
+
+### Step 3: Evaluation
 
 # Citation and Reference
 If you find this project useful, please cite:
