@@ -13,9 +13,11 @@ For CopyRight issue, we only provide the rendered samples on both training and v
 
 All the sample name and data folder organization from ```All-day CityScapes ``` is the same as the original ```CityScapes```.
 
-# Dataset Download
+# Source Code & Implementation
 
-The source code will come soon.
+The proposed interactive intrinsic-extrinsic learning can be embedded into a variety of CNN and ViT based segmentation models.
+
+Here we provide the source code that is implemented on DDRNet-23 backbone, which is: 1) simple and easy to config; 2) most of the experiments in this paper conduct on.
 
 # Citation and Reference
 If you find this project useful, please cite:
