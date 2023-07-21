@@ -20,6 +20,10 @@ The proposed ```interactive intrinsic-extrinsic learning``` can be embedded into
 Here we provide the source code that is implemented on <a href="https://ieeexplore.ieee.org/document/9996293">DDRNet-23</a> backbone, which is: 1) simple and easy to config; 2) most of the experiments in this paper conduct on. 
 This implementation is highly based on the DDRNet source code. The original implementation of DDRNet can be found in this <a href="https://github.com/ydhongHIT/DDRNet">page</a>.
 
+Please follow the below steps to run the AO-SegNet (DDRNet-23 based).
+
+Step 1: Configuration
+
 # Citation and Reference
 If you find this project useful, please cite:
 ```
